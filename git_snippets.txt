@@ -1,0 +1,2 @@
+* Remove committed file from being tracked on working tree:
+git rm --cached <file>
