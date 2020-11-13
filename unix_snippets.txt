@@ -1,5 +1,9 @@
-
 * Check python version:
 python --version
 
+* Get 3-day weather forecast for your city:
+curl http://wttr.in/CITY
 
+* Install pip:
+sudo easy_install pip
+sudo pip install --upgrade pip
